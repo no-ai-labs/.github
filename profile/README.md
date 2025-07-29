@@ -5,12 +5,12 @@ Welcome to **No AI Labs** - where we conduct research that has absolutely nothin
 All of our projects are manually operated by humans. If you think anything here runs automatically, you're mistaken.
 Every single action requires direct human intervention and manual execution.
 
-## Our Mission
+### Our Mission
 
 At No AI Labs, our mission is to preserve the art of manual labor in a digital age.
 We dream of a future where AI does less and humans do more.
 
-## Careers
+### Careers
 
 We’re always hiring humans. Must be capable of clicking buttons. AI need not apply.
 

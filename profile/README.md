@@ -1,6 +1,6 @@
-# No AI Lab 🚫🤖
+# No AI Labs 🚫🤖
 
-Welcome to **No AI Lab** - where we conduct research that has absolutely nothing to do with AI.
+Welcome to **No AI Labs** - where we conduct research that has absolutely nothing to do with AI.
 
 All of our projects are manually operated by humans. If you think anything here runs automatically, you're mistaken. Every single action requires direct human intervention and manual execution.
 
@@ -16,7 +16,7 @@ Traditional record keeping, the old-fashioned way - no algorithms, just good old
 
 We welcome any suggestions or questions about our projects!
 
-- 🌐 Visit our website: [https://noailab.ai](https://noailab.ai)
+- 🌐 Visit our website: [https://noailabs.ai](https://noailabs.ai)
 - 📧 Email us: [human@noailabs.ai](mailto:human@noailabs.ai)
 
 ---

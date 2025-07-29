@@ -2,7 +2,8 @@
 
 Welcome to **No AI Labs** - where we conduct research that has absolutely nothing to do with AI.
 
-All of our projects are manually operated by humans. If you think anything here runs automatically, you're mistaken. Every single action requires direct human intervention and manual execution.
+All of our projects are manually operated by humans. If you think anything here runs automatically, you're mistaken.
+Every single action requires direct human intervention and manual execution.
 
 ## Our Projects
 

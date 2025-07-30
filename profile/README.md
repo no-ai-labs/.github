@@ -22,6 +22,9 @@ A project that adds flavor to your development experience - completely human-sea
 ### 📚 [Book Keeper](https://github.com/no-ai-labs/book-keeper)
 Traditional record keeping, the old-fashioned way - no algorithms, just good old manual bookkeeping.
 
+### 🧠 [Mentat](https://github.com/no-ai-labs/mentat)
+A thinking companion for deep contemplation - powered entirely by human wisdom and manual reflection.
+
 ## Get In Touch
 
 We welcome any suggestions or questions about our projects!
